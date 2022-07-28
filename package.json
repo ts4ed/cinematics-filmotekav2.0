@@ -2,7 +2,7 @@
   "name": "cinematics-filmotekav2.0",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://maksim-yaroschuk.github.io/cinematics-filmotekav2.0/",
+  "homepage": "https://ts4ed.github.io/cinematics-filmotekav2.0/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /cinematics-filmotekav2.0/"
